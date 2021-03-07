@@ -1,0 +1,8 @@
+title: 542 blog
+description: Musings about statistics and data science
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
